@@ -9,7 +9,7 @@ Showcases user feedback dynamically with smooth transitions for mobile and deskt
 
 ![Coding Bootcamp Slider Screenshot](/screenshot.jpg)
 
-LIVE: [https://dzik0.github.io/coding-bootcamp-slider](https://dzik0.github.io/coding-bootcamp-slider)
+LIVE: [https://p-glazowski.github.io/coding-bootcamp-slider](https://p-glazowski.github.io/coding-bootcamp-slider)
 
 ---
 
@@ -81,7 +81,7 @@ public/
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/Dzik0/coding-bootcamp-slider.git
+   git clone https://github.com/p-glazowski/coding-bootcamp-slider.git
    cd coding-bootcamp-slider
    ```
 
@@ -110,8 +110,7 @@ public/
 
 ## 👨‍💻 Author
 
-**Dzik0**  
-GitHub: [https://github.com/Dzik0](https://github.com/Dzik0)
+**Piotr Głazowski**  
 
 ---
 
